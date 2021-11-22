@@ -20,7 +20,8 @@ app.layout = html.Div([
         options=[{'label': i, 'value': i} for i in ['LA', 'NYC', 'MTL']],
         value='LA'
     ),
-    html.Div(id='display-value')
+    html.Div(id='display-value'),
+    html.Img(id="example-image", src="https://placekitten.com/408/287")
 ])
 
 
