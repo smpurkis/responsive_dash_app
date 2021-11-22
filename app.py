@@ -35,6 +35,9 @@ h1_style = {
 
 img_style = {
     "text-align": "center",
+    "min-width": "200px",
+    "width": "75%",
+    "max-width": "600px",
     "margin": "0 auto"
 }
 
