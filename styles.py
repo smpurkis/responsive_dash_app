@@ -36,5 +36,6 @@ img_style = {
     "min-width": "200px",
     "width": "75%",
     "max-width": "600px",
-    "margin": "0 auto"
+    "margin": "0 auto",
+    "border": "5px solid #555",
 }
