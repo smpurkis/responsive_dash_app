@@ -21,7 +21,7 @@ dropdown_style = {
     "text-align": "center",
     "max-width": "20rem",
     "margin": "0 auto",
-    "min-width": "10rem"
+    "min-width": "12rem"
 }
 
 h2_style = {
